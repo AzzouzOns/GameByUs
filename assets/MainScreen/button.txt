@@ -1,0 +1,2 @@
+nPosX = 390 # Position en X du personnage
+nPosY = 510 # Position en Y du personnage
